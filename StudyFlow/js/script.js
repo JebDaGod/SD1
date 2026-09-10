@@ -25,7 +25,7 @@ function handleFormSubmit(event) {
     formMessage.textContent =
         `Thanks, ${name}! Your feedback has been received.`;
 
-    formMessage.style.color = "#2563eb";
+    formMessage.style.color = "#1346b6";
 
     contactForm.reset();
 }
